@@ -1,0 +1,13 @@
+body {
+    background: #000;
+    color: #fff;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+  
+  .headimage{
+    height: 200px;
+    width: 570px;
+    margin-left: -50px;
+  }
+  
